@@ -1,6 +1,6 @@
 # Node Mongo Migrator
 
-A simple script to migrate data between MongoDB collections using basic filters.
+A simple script to migrate data between mongo databases using basic filters.
 
 ## 🌐 Environment & Requirements
 
