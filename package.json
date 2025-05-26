@@ -1,0 +1,20 @@
+{
+    "name": "mongo_migrador",
+    "version": "1.0.0",
+    "main": "mongo_lito.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start watch": "node --env-file=\"D:\\fmecca\\OneDrive - SUNAT\\.env\" --watch mongo_lito.js",
+        "start": "node --env-file=\"D:\\fmecca\\OneDrive - SUNAT\\.env\" mongo_lito.js"
+    },
+    "type": "module",
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^5.1.0",
+        "mongoose": "^8.13.2",
+        "node-notifier": "^10.0.1"
+    }
+}
